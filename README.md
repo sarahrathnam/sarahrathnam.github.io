@@ -5,4 +5,4 @@ Insert stuff here.
 
 
 ### Gracie
-<img align="left" src="https://github.com/sarahrathnam/sarahrathnam.github.io/blob/main/GraciePortrait.JPG?raw=true" width=150>  
+<img align="left" src="https://github.com/sarahrathnam/sarahrathnam.github.io/blob/main/GraciePortrait.JPG?raw=true" width=250 height=300>  
