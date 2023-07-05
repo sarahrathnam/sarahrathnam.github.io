@@ -7,4 +7,7 @@ Before my return to academia, I worked for nearly a decade in quantitative finan
 
 ## Publications
 
+Sarah Rathnam, Sonali Parbhoo, Weiwei Pan, Susan A. Murphy, and Finale Doshi-Velez. [The Unintended Consequences of Discount Regularization: Improving Regularization in Certainty Equivalence Reinforcement Learning](https://arxiv.org/pdf/2306.11208.pdf). ICML 2023.
+
 Sarah Rathnam, Susan A. Murphy, and Finale Doshi-Velez. [Comparison and Unification of Three Regularization Methods in Batch Reinforcement Learning](https://arxiv.org/abs/2109.08134). Workshop on Reinforcement Learning Theory (ICML) 2021.
+
