@@ -6,6 +6,8 @@ I am a PhD candidate in Applied Mathematics at Harvard University. I am co-advis
 Before my return to academia, I worked for nearly a decade in quantitative finance at various hedge funds and trading firms.
 
 ## Publications
+Sarah Rathnam, Abhishek Sharma, Kamber L. Hart, Pilar F. Verhaak, Thomas H. McCoy, Roy H. Perlis and Finale Doshi-Velez.
+[Association between prescriber practices and major depression treatment outcomes](https://doi.org/10.1016/j.xjmad.2024.100080). Journal of Mood & Anxiety Disorders.
 
 Sarah Rathnam, Kamber L. Hart, Abhishek Sharma, Pilar F. Verhaak, Thomas H. McCoy, Finale Doshi-Velez, and Roy H. Perlis. [Heterogeneity in Antidepressant Treatment and Major Depressive Disorder Outcomes Among Clinicians](https://jamanetwork.com/journals/jamapsychiatry/article-abstract/2821076). JAMA Psychiatry.
 
