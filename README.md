@@ -6,6 +6,8 @@ I am a PhD candidate in Applied Mathematics at Harvard University. I am co-advis
 Before my return to academia, I worked for nearly a decade in quantitative finance at various hedge funds and trading firms.
 
 ## Publications
+Sarah Rathnam, Sonali Parbhoo, Siddharth Swaroop, Weiwei Pan, Susan A. Murphy, and Finale Doshi-Velez. [Rethinking Discount Regularization](https://jmlr.org/papers/v25/24-0087.html). JMLR 2024.
+
 Sarah Rathnam, Abhishek Sharma, Kamber L. Hart, Pilar F. Verhaak, Thomas H. McCoy, Roy H. Perlis and Finale Doshi-Velez.
 [Association between prescriber practices and major depression treatment outcomes](https://doi.org/10.1016/j.xjmad.2024.100080). Journal of Mood & Anxiety Disorders.
 
